@@ -1,0 +1,57 @@
+.page404 {
+  background-color: #333;
+  //background-image: url('/assets/images/war.jpg');
+  background-size: cover;
+  background-position: center;
+  color: #888;
+  font-family: sans-serif;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  user-select: none;
+
+  h1 {
+    background: linear-gradient(90deg, #4b5320, #6b4226, #c0b283, #78866b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 1.5px black;
+    font-size: 2em;
+    font-weight: 800;
+    user-select: none;
+  }
+
+  p {
+    user-select: none;
+
+    &:hover {
+      cursor: default;
+      box-shadow: 0 0 10px 2px rgba(107, 66, 38, 0.7), /* Brown glow */
+      0 0 20px 5px rgba(75, 83, 32, 0.6), /* Green glow */
+      0 0 30px 10px rgba(192, 178, 131, 0.5); /* Yellow glow */
+    }
+
+    span {
+      margin-top: 2rem;
+      -webkit-text-stroke: 1px black;
+    }
+
+    margin: 0 auto;
+    width: 280px;
+    font-weight: 800;
+    -webkit-text-stroke: .75px black;
+    background: linear-gradient(90deg, #4b5320, #6b4226, #c0b283, #78866b);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    border-radius: 10px;
+
+    text-shadow: 0 0 5px rgba(107, 66, 38, 0.7), /* Brown shadow */
+    0 0 10px rgba(75, 83, 32, 0.6), /* Green shadow */
+    0 0 15px rgba(192, 178, 131, 0.5), /* Yellow shadow */
+    0 0 20px rgba(192, 178, 131, 0.5); /* Extra yellow shadow for extended glow */
+  }
+}

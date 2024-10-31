@@ -1,0 +1,25 @@
+<div class="card">
+  <p-card (mouseover)="showButton = true" (mouseleave)="showButton = false" [ngStyle]="{'--dynamic-background-image': 'url(' + getImage() + ')'}">
+    <ng-template pTemplate="header">
+      <div class="blurry-border t-content">
+        <img alt="Card" src="assets/images/ck.jpg" class="t-content"/>
+      </div>
+      <div class="p-card-title t-content">
+        Celal Karakoç
+      </div>
+      <div class="p-card-subtitle  t-content">
+        Software Engineer
+      </div>
+    </ng-template>
+    <div class="item-link">
+      <div class="about-links t-content">
+        <i class="pi pi-github"> <a href="https://github.com/ckarakoc"> ckarakoc</a></i>
+        <i class="pi pi-linkedin"> <a href="https://www.linkedin.com/in/celal-karakoç/"> in/celal-karakoç</a></i>
+        <i class="pi pi-envelope"> <a href="mailto:ckarakoc.dev@gmail.com"> ckarakoc.dev</a></i>
+        <i class="pi pi-globe"> <a href="https://www.ckarakoc.nl"> www.ckarakoc.nl</a></i>
+      </div>
+
+      <div class="item-bg"></div>
+    </div>
+  </p-card>
+</div>

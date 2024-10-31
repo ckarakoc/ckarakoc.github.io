@@ -1,0 +1,13 @@
+<div class="outer" [ngStyle]="{'background-image': 'url(' + getImageBelow() + ')'}">
+  <div class="desktop" [ngStyle]="{'background-image': 'url(' + getDesktopImage() + ')'}">
+    <div class="outer-menubar">
+      <app-menubar/>
+    </div>
+    <div class="main-desktop">
+      <app-about-dialog></app-about-dialog>
+    </div>
+    <div class="outer-navbar">
+      <app-navbar/>
+    </div>
+  </div>
+</div>

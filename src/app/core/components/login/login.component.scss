@@ -1,0 +1,65 @@
+.c-login {
+  height: 100%;
+  background-color: black;
+
+  .loading-screen {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    //text-align: center;
+    flex-direction: column;
+    background-color: black;
+
+    .apple-logo {
+      width: 25vw;
+      height: 25vh;
+    }
+  }
+
+  .login-screen {
+    height: 100%;
+    //background-image: url("assets/images/macos/palmtree.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    animation: fadein 1s ease-in;
+
+    .clock-part {
+      margin-top: 10rem;
+
+      span {
+        user-select: none;
+        font-family: 'e1234-font', sans-serif;
+        font-size: 7rem;
+        color: yellow;
+        text-shadow: 1px 1px 10px #fff, 1px 1px 10px #ccc;
+      }
+    }
+
+    .login-part {
+      display: flex;
+      margin-bottom: 5vh;
+
+      * {
+        margin: 10px;
+      }
+    }
+  }
+}
+
+:host ::ng-deep {
+  .progressbar {
+    width: 15vw;
+    margin-top: 4vh;
+
+    .p-progressbar {
+      height: 1vh;
+      border-radius: 1vh;
+    }
+  }
+}

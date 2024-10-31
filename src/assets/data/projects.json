@@ -1,0 +1,677 @@
+[
+  {
+    "name": "group7",
+    "repo_url": "https://github.com/alikahawa/group7",
+    "image_url": "",
+    "description": "Algorithms for the visualization of 3D volumetric data.",
+    "tags": [
+      "C",
+      "C++",
+      "Makefile",
+      "Lua"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "AHK-Macros",
+    "repo_url": "https://github.com/ckarakoc/AHK-Macros",
+    "image_url": "",
+    "description": "AutoHotKey Macros for personal use.",
+    "tags": [
+      "AutoHotkey"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "Angular",
+    "repo_url": "https://github.com/ckarakoc/Angular",
+    "image_url": "",
+    "description": "Tutorial Project made with Angular - Housing",
+    "tags": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "AngularForm",
+    "repo_url": "https://github.com/ckarakoc/AngularForm",
+    "image_url": "",
+    "description": "Tutorial Project made with Angular - A Template Driven Form",
+    "tags": [
+      "HTML",
+      "TypeScript",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "AngularHero",
+    "repo_url": "https://github.com/ckarakoc/AngularHero",
+    "image_url": "",
+    "description": "Tutorial Project made with Angular - Tour of Heroes",
+    "tags": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "AssDr0ids",
+    "repo_url": "https://github.com/ckarakoc/AssDr0ids",
+    "image_url": "",
+    "description": "An Asteroids game made as a school project in Java.",
+    "tags": [
+      "Java"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "Calculator",
+    "repo_url": "https://github.com/ckarakoc/Calculator",
+    "image_url": "",
+    "description": "A simple JavaFX Calculator",
+    "tags": [
+      "Java",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "CelalsDonerKebab",
+    "repo_url": "https://github.com/ckarakoc/CelalsDonerKebab",
+    "image_url": "",
+    "description": "A Website I made with Laravel for MaxEncode.",
+    "tags": [
+      "PHP",
+      "HTML"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "CIassignment3",
+    "repo_url": "https://github.com/ckarakoc/CIassignment3",
+    "image_url": "",
+    "description": "Code from the Machine Learning course - Ant Colony Optimization.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "CINetwork",
+    "repo_url": "https://github.com/ckarakoc/CINetwork",
+    "image_url": "",
+    "description": "Computational Intelligence - Machine Learning Course.",
+    "tags": [
+      "MATLAB"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "codewars",
+    "repo_url": "https://github.com/ckarakoc/codewars",
+    "image_url": "",
+    "description": "Python Web Scraper from CodeWars.",
+    "tags": [
+      "HTML",
+      "Python",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "PHP",
+      "Hack"
+    ],
+    "star": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "DataMining",
+    "repo_url": "https://github.com/ckarakoc/DataMining",
+    "image_url": "",
+    "description": "Assignments of the Data Mining Course.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "DataMiningRecommender",
+    "repo_url": "https://github.com/ckarakoc/DataMiningRecommender",
+    "image_url": "",
+    "description": "NetFlix Recommender System, Nearest Neighbour Latent Factors, made with Java.",
+    "tags": [
+      "Java"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "DemoProjectS7",
+    "repo_url": "https://github.com/ckarakoc/DemoProjectS7",
+    "image_url": "",
+    "description": "A CSS styled Goal Tracker. Udemy Tutorial.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "ExampleStartingReactSite",
+    "repo_url": "https://github.com/ckarakoc/ExampleStartingReactSite",
+    "image_url": "",
+    "description": "Single Webpage with React. Udemy Tutorial.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "ExpenseTracker",
+    "repo_url": "https://github.com/ckarakoc/ExpenseTracker",
+    "image_url": "",
+    "description": "An Expense Tracker made with React. Udemy Tutorial.",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "Frogger",
+    "repo_url": "https://github.com/ckarakoc/Frogger",
+    "image_url": "",
+    "description": "A game extension of the game frogger, from Almas B.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "game-of-life",
+    "repo_url": "https://github.com/ckarakoc/game-of-life",
+    "image_url": "",
+    "description": "Conway's game of life written in PyQt5 OpenGL.",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "GameOfLife",
+    "repo_url": "https://github.com/ckarakoc/GameOfLife",
+    "image_url": "",
+    "description": "Conway's game of life written in JavaFX.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "gotdzellal.github.io",
+    "repo_url": "https://github.com/ckarakoc/gotdzellal.github.io",
+    "image_url": "",
+    "description": "My old Github home-page.",
+    "tags": [
+      "CSS",
+      "HTML",
+      "Ruby",
+      "JavaScript"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "IDM",
+    "repo_url": "https://github.com/ckarakoc/IDM",
+    "image_url": "",
+    "description": "Information and Data Modelling course assignment code.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "InvestmentCalculator",
+    "repo_url": "https://github.com/ckarakoc/InvestmentCalculator",
+    "image_url": "",
+    "description": "A Demo Project Investment Calculator. Udemy tutorial.",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "JavaConsoleStyling",
+    "repo_url": "https://github.com/ckarakoc/JavaConsoleStyling",
+    "image_url": "",
+    "description": "Small Project to create way to style the console with colors written in Java.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "jpacman-framework",
+    "repo_url": "https://github.com/ckarakoc/jpacman-framework",
+    "image_url": "",
+    "description": "Software Testing codebase for the assignments.",
+    "tags": [
+      "Java",
+      "Gherkin"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "LeetCode",
+    "repo_url": "https://github.com/ckarakoc/LeetCode",
+    "image_url": "",
+    "description": "My Leetcode solutions.",
+    "tags": [
+      "Java",
+      "JavaScript"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "MyFirstApp",
+    "repo_url": "https://github.com/ckarakoc/MyFirstApp",
+    "image_url": "",
+    "description": "",
+    "tags": [
+      "Kotlin"
+    ],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "ndfs",
+    "repo_url": "https://github.com/ckarakoc/ndfs",
+    "image_url": "",
+    "description": "Concurrency and Multi-threading assignment. Nested Depth-First Search.",
+    "tags": [
+      "Java",
+      "Shell",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "ng-chat-ui-setup",
+    "repo_url": "https://github.com/ckarakoc/ng-chat-ui-setup",
+    "image_url": "",
+    "description": "Supabase Chat App.",
+    "tags": [
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": true,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "old.ckarakoc.github.io",
+    "repo_url": "https://github.com/ckarakoc/old.ckarakoc.github.io",
+    "image_url": "",
+    "description": "My old Github Page made with Minimal Mistake Theme.",
+    "tags": [
+      "JavaScript",
+      "SCSS",
+      "HTML",
+      "Ruby"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "OurOwnGameWithBlackJackAndHookers",
+    "repo_url": "https://github.com/ckarakoc/OurOwnGameWithBlackJackAndHookers",
+    "image_url": "",
+    "description": "Game a friend and I were planning on making.",
+    "tags": [
+      "Java"
+    ],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "Do What The F*ck You Want To Public License"
+  },
+  {
+    "name": "recommender",
+    "repo_url": "https://github.com/ckarakoc/recommender",
+    "image_url": "",
+    "description": "A Nearest Neighbour Latent Factors NetFlix Recommender System made with Python.",
+    "tags": [
+      "Python"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "snake",
+    "repo_url": "https://github.com/ckarakoc/snake",
+    "image_url": "",
+    "description": "A simple implementation of snake.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "VectorBasedGame",
+    "repo_url": "https://github.com/ckarakoc/VectorBasedGame",
+    "image_url": "",
+    "description": "A game I made with a friend of mine.",
+    "tags": [
+      "Java"
+    ],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "Weblab",
+    "repo_url": "https://github.com/ckarakoc/Weblab",
+    "image_url": "",
+    "description": "All the assignments from the course Algorithm Design.",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "Website",
+    "repo_url": "https://github.com/ckarakoc/Website",
+    "image_url": "",
+    "description": "My website: www.ckarakoc.nl",
+    "tags": [
+      "SCSS",
+      "TypeScript",
+      "HTML",
+      "Python"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "experience-primer-copilot-ckarakoc",
+    "repo_url": "https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-ckarakoc",
+    "image_url": "",
+    "description": "",
+    "tags": [],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "Illuminati-D2.1",
+    "repo_url": "https://github.com/FWDekker/Illuminati-D2.1",
+    "image_url": "",
+    "description": "A Client-Server Studdy Buddy Application.",
+    "tags": [
+      "Java",
+      "CSS"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "vr-number-one",
+    "repo_url": "https://github.com/GreybeardCG/vr-number-one",
+    "image_url": "",
+    "description": "Motion Tracking in Virtual Reality Made and Tested in Unity.",
+    "tags": [
+      "C#",
+      "C++",
+      "Shell",
+      "C"
+    ],
+    "star": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "SideScroller",
+    "repo_url": "https://github.com/ikhebgeenaccount/SideScroller",
+    "image_url": "",
+    "description": "League of Legends themed 2D platformer made by a friend.",
+    "tags": [
+      "HTML",
+      "Java",
+      "CSS",
+      "JavaScript"
+    ],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "CI-NeuralNetwork",
+    "repo_url": "https://github.com/kjcvheel/CI-NeuralNetwork",
+    "image_url": "",
+    "description": "Computational Intelligence machine learning course assignment.",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "CoCo",
+    "repo_url": "https://github.com/nielsdebruin/CoCo",
+    "image_url": "",
+    "description": "Compiler Construction - compiler features for a custom C-like language.",
+    "tags": [
+      "Python",
+      "LLVM",
+      "C++",
+      "Shell",
+      "Vim Script",
+      "Makefile",
+      "C"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  },
+  {
+    "name": "ecommerce-nuxt",
+    "repo_url": "https://github.com/OguzcanKarakoc/ecommerce-nuxt",
+    "image_url": "",
+    "description": "Project of my lil. bro.",
+    "tags": [
+      "Vue",
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "Dockerfile"
+    ],
+    "shit": true,
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "MaxEncode",
+    "repo_url": "https://github.com/OguzcanKarakoc/MaxEncode",
+    "image_url": "",
+    "description": "The MaxEncode website.",
+    "tags": [
+      "PHP",
+      "Blade",
+      "Shell",
+      "HTML"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": "MIT License"
+  },
+  {
+    "name": "MultiLauncher",
+    "repo_url": "https://github.com/OguzcanKarakoc/MultiLauncher",
+    "image_url": "",
+    "description": "A Project of lil. bro.",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "TypeScript"
+    ],
+    "shit": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "yiwa-ecommerce",
+    "repo_url": "https://github.com/OguzcanKarakoc/yiwa-ecommerce",
+    "image_url": "",
+    "description": "A Project of lil. bro.",
+    "tags": [],
+    "shit": true,
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "license": null
+  },
+  {
+    "name": "ComputerGraphics",
+    "repo_url": "https://github.com/ricohageman/ComputerGraphics",
+    "image_url": "",
+    "description": "A RayTracer made for the Computer Graphics Course.",
+    "tags": [
+      "C++",
+      "C"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": true,
+    "license": null
+  }
+]

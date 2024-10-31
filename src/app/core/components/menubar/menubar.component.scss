@@ -1,0 +1,36 @@
+:host ::ng-deep {
+  .p-menubar {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-radius: 0;
+    border: 0;
+    background-color: rgba(white, 70%);
+
+    .p-submenu-list {
+      background-color: rgba(white, 70%);
+    }
+
+    .p-menuitem:first-child {
+      font-weight: bold;
+      padding: 0 1rem;
+    }
+
+    .p-menuitem-link {
+      padding: 0.5rem .75rem;
+    }
+
+    .p-menubar-root-list > .p-menuitem > .p-menuitem-link {
+      padding: 0.5rem .75rem;
+
+      > .p-submenu-icon {
+        display: none;
+      }
+    }
+
+    .p-menubar-end {
+      span, i {
+        padding: 0 .75rem;
+      }
+    }
+  }
+}

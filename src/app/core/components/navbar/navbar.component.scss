@@ -1,0 +1,74 @@
+:host ::ng-deep {
+  .p-dock {
+    &.navbar {
+      //background-color: rgba(white, 100%);
+      position: fixed;
+      bottom: 0;
+      height: auto;
+      //    top: 0;
+      //    left: 0;
+      //    right: 0;
+      //    border: 0;
+      //    border-radius: 0 0 3px 3px;
+    }
+  }
+
+  .p-dialog {
+    .p-dialog-header {
+      padding: .2rem;
+    }
+
+    .p-dialog-content {
+      padding: 0;
+    }
+
+    p {
+      margin-top: 0;
+    }
+
+    .p-terminal {
+      white-space: pre-wrap; // to ensure that p-terminal can have newlines and spaces don't disappear
+      background-color: #212121;
+      border: 0 none;
+      color: white;
+      min-height: 18rem;
+      height: 100%;
+
+      .p-terminal-input {
+        padding-left: 1px;
+        color: turquoise;
+      }
+
+      .p-terminal-command {
+        color: #80CBC4;
+      }
+
+      .p-terminal-prompt, .p-terminal-content-prompt {
+        color: #FFD54F;
+      }
+
+      .p-terminal-response {
+        color: #9FA8DA;
+      }
+    }
+
+    .p-tree {
+      height: 100%;
+      border-radius: 0;
+      border-left-width: 0;
+      border-right-width: 0;
+      border-bottom-width: 0;
+
+      .p-tree-container .p-treenode .p-treenode-content.p-highlight .p-tree-toggler,
+      .p-tree-container .p-treenode .p-treenode-content.p-highlight .p-treenode-icon {
+        color: #1D4ED8;
+      }
+
+
+      .p-tree-container .p-treenode .p-treenode-content.p-highlight {
+        background-color: white;
+        color: #1D4ED8;
+      }
+    }
+  }
+}

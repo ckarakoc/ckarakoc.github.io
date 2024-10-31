@@ -1,0 +1,26 @@
+<div class="avatar" (click)="showPwdInput($event)" [class.disabled]="shown">
+  @if (!imageUrl) {
+    <p-avatar
+      icon="pi pi-user"
+      size="xlarge"
+      shape="circle"/>
+  } @else {
+    <p-avatar
+      image="{{ imageUrl }}"
+      size="xlarge"
+      shape="circle"
+    />
+  }
+  <span class="name">{{ name }}</span>
+  @if (this.shown) {
+    <div class="login-input">
+      <p-button (click)="hidePwdInput($event)" icon="pi pi-arrow-circle-left"/>
+      <p-password #passwordInput (keyup.enter)="clearPwd(passwordInput)" [placeholder]="'Enter Password'" [feedback]="false"/>
+      <p-button pTooltip="☕"
+                showDelay="1000"
+                hideDelay="300"
+                tooltipPosition="top"
+                icon="pi pi-question-circle"/>
+    </div>
+  }
+</div>

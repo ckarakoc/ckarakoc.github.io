@@ -1,0 +1,603 @@
+[
+  {
+    "name": "group7",
+    "visibility": "private",
+    "url": "https://github.com/alikahawa/group7",
+    "languages": [
+      "C",
+      "C++",
+      "Makefile",
+      "Lua"
+    ],
+    "license": null
+  },
+  {
+    "name": "AHK-Macros",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/AHK-Macros",
+    "languages": [
+      "AutoHotkey"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "Angular",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/Angular",
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "AngularForm",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/AngularForm",
+    "languages": [
+      "HTML",
+      "TypeScript",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "AngularHero",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/AngularHero",
+    "languages": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "AssDr0ids",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/AssDr0ids",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "Calculator",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/Calculator",
+    "languages": [
+      "Java",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "CelalsDonerKebab",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/CelalsDonerKebab",
+    "languages": [
+      "PHP",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "CIassignment3",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/CIassignment3",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "CINetwork",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/CINetwork",
+    "languages": [
+      "MATLAB"
+    ],
+    "license": null
+  },
+  {
+    "name": "codewars",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/codewars",
+    "languages": [
+      "HTML",
+      "Python",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "PHP",
+      "Hack"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "CSE3220",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/CSE3220",
+    "languages": [],
+    "license": null
+  },
+  {
+    "name": "DataMining",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/DataMining",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "DataMiningRecommender",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/DataMiningRecommender",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "DemoProjectS7",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/DemoProjectS7",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "django-project-template",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/django-project-template",
+    "languages": [
+      "Python",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "EndlessRunner",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/EndlessRunner",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "Everest",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/Everest",
+    "languages": [
+      "Java",
+      "CSS",
+      "HTML"
+    ],
+    "license": "Apache License 2.0"
+  },
+  {
+    "name": "ExampleStartingReactSite",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/ExampleStartingReactSite",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "ExpenseTracker",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/ExpenseTracker",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "Frogger",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/Frogger",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "game-of-life",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/game-of-life",
+    "languages": [
+      "Python"
+    ],
+    "license": null
+  },
+  {
+    "name": "GameOfLife",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/GameOfLife",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "gotdzellal.github.io",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/gotdzellal.github.io",
+    "languages": [
+      "CSS",
+      "HTML",
+      "Ruby",
+      "JavaScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "IDM",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/IDM",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "InvestmentCalculator",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/InvestmentCalculator",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "JavaConsoleStyling",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/JavaConsoleStyling",
+    "languages": [
+      "Java"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "jpacman-framework",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/jpacman-framework",
+    "languages": [
+      "Java",
+      "Gherkin"
+    ],
+    "license": null
+  },
+  {
+    "name": "laravel-tutorial-blog",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/laravel-tutorial-blog",
+    "languages": [
+      "PHP",
+      "Blade",
+      "Shell"
+    ],
+    "license": null
+  },
+  {
+    "name": "LeetCode",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/LeetCode",
+    "languages": [
+      "Java",
+      "JavaScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "mr-r0b0t",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/mr-r0b0t",
+    "languages": [
+      "JavaScript",
+      "Shell"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "MyFirstApp",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/MyFirstApp",
+    "languages": [
+      "Kotlin"
+    ],
+    "license": null
+  },
+  {
+    "name": "ndfs",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/ndfs",
+    "languages": [
+      "Java",
+      "Shell",
+      "HTML"
+    ],
+    "license": null
+  },
+  {
+    "name": "ng-chat-ui-setup",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/ng-chat-ui-setup",
+    "languages": [
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "node-steamapi",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/node-steamapi",
+    "languages": [
+      "JavaScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "old.ckarakoc.github.io",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/old.ckarakoc.github.io",
+    "languages": [
+      "JavaScript",
+      "SCSS",
+      "HTML",
+      "Ruby"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "OurOwnGameWithBlackJackAndHookers",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/OurOwnGameWithBlackJackAndHookers",
+    "languages": [
+      "Java"
+    ],
+    "license": "Do What The F*ck You Want To Public License"
+  },
+  {
+    "name": "poe-paw",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/poe-paw",
+    "languages": [
+      "Python"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "pythonProject",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/pythonProject",
+    "languages": [
+      "Python"
+    ],
+    "license": null
+  },
+  {
+    "name": "recommender",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/recommender",
+    "languages": [
+      "Python"
+    ],
+    "license": null
+  },
+  {
+    "name": "snake",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/snake",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "Thee",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/Thee",
+    "languages": [
+      "Java",
+      "CSS"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "todo",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/todo",
+    "languages": [
+      "PHP",
+      "Blade",
+      "Shell",
+      "JavaScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "UnityRoller",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/UnityRoller",
+    "languages": [
+      "C#",
+      "Shell"
+    ],
+    "license": null
+  },
+  {
+    "name": "VectorBasedGame",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/VectorBasedGame",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "Weblab",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/Weblab",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "Website",
+    "visibility": "private",
+    "url": "https://github.com/ckarakoc/Website",
+    "languages": [
+      "SCSS",
+      "TypeScript",
+      "HTML",
+      "Python"
+    ],
+    "license": null
+  },
+  {
+    "name": "YoutubeZero",
+    "visibility": "public",
+    "url": "https://github.com/ckarakoc/YoutubeZero",
+    "languages": [
+      "Java"
+    ],
+    "license": null
+  },
+  {
+    "name": "experience-primer-copilot-ckarakoc",
+    "visibility": "public",
+    "url": "https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-ckarakoc",
+    "languages": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "Illuminati-D2.1",
+    "visibility": "private",
+    "url": "https://github.com/FWDekker/Illuminati-D2.1",
+    "languages": [
+      "Java",
+      "CSS"
+    ],
+    "license": null
+  },
+  {
+    "name": "vr-number-one",
+    "visibility": "private",
+    "url": "https://github.com/GreybeardCG/vr-number-one",
+    "languages": [
+      "C#",
+      "C++",
+      "Shell",
+      "C"
+    ],
+    "license": null
+  },
+  {
+    "name": "SideScroller",
+    "visibility": "public",
+    "url": "https://github.com/ikhebgeenaccount/SideScroller",
+    "languages": [
+      "HTML",
+      "Java",
+      "CSS",
+      "JavaScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "CI-NeuralNetwork",
+    "visibility": "private",
+    "url": "https://github.com/kjcvheel/CI-NeuralNetwork",
+    "languages": [
+      "Python"
+    ],
+    "license": null
+  },
+  {
+    "name": "CoCo",
+    "visibility": "private",
+    "url": "https://github.com/nielsdebruin/CoCo",
+    "languages": [
+      "Python",
+      "LLVM",
+      "C++",
+      "Shell",
+      "Vim Script",
+      "Makefile",
+      "C"
+    ],
+    "license": null
+  },
+  {
+    "name": "ecommerce-nuxt",
+    "visibility": "public",
+    "url": "https://github.com/OguzcanKarakoc/ecommerce-nuxt",
+    "languages": [
+      "Vue",
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "Dockerfile"
+    ],
+    "license": null
+  },
+  {
+    "name": "MaxEncode",
+    "visibility": "private",
+    "url": "https://github.com/OguzcanKarakoc/MaxEncode",
+    "languages": [
+      "PHP",
+      "Blade",
+      "Shell",
+      "HTML"
+    ],
+    "license": "MIT License"
+  },
+  {
+    "name": "MultiLauncher",
+    "visibility": "private",
+    "url": "https://github.com/OguzcanKarakoc/MultiLauncher",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "TypeScript"
+    ],
+    "license": null
+  },
+  {
+    "name": "yiwa-ecommerce",
+    "visibility": "private",
+    "url": "https://github.com/OguzcanKarakoc/yiwa-ecommerce",
+    "languages": [],
+    "license": null
+  },
+  {
+    "name": "ComputerGraphics",
+    "visibility": "private",
+    "url": "https://github.com/ricohageman/ComputerGraphics",
+    "languages": [
+      "C++",
+      "C"
+    ],
+    "license": null
+  }
+]

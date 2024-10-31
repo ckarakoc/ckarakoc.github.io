@@ -1,0 +1,45 @@
+<p-dock styleClass="navbar"
+        [model]="dockItems"
+        [position]="'bottom'">
+  <ng-template pTemplate="item" let-item>
+    <!--    Hello, {{item.label}}!-->
+    <img [src]="item.icon" [alt]="item.label" width="100%"/>
+  </ng-template>
+</p-dock>
+
+<p-toast position="top-center" key="tc"/>
+
+<p-dialog
+  [maximizable]="true"
+  [closeOnEscape]="true"
+  [(visible)]="displayFinder"
+  [breakpoints]="{ '960px': '50vw' }"
+  [style]="{ width: '50%', height: '50vh' }"
+  [draggable]="true"
+  [resizable]="false">
+  <p-tree
+    [value]="nodes"
+    [filter]="true"
+    filterPlaceholder="Search"
+    selectionMode="single"
+    (onNodeSelect)="nodeSelect($event)"
+  />
+</p-dialog>
+
+<p-dialog
+  [maximizable]="true"
+  [(visible)]="displayTerminal"
+  [breakpoints]="{ '960px': '50vw' }"
+  [style]="{ width: '30%' }"
+  [draggable]="true"
+  [resizable]="false">
+  <p-terminal
+    #terminal
+    welcomeMessage="Welcome to ckarakoc.github.io (type: 'help' for commands)"
+    prompt="ckarakoc $ "/>
+</p-dialog>
+
+<app-about-dialog #dialogAbout></app-about-dialog>
+
+
+

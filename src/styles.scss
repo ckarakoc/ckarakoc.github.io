@@ -1,0 +1,60 @@
+@import "primeng/resources/primeng.css";
+@import "assets/themes/primeng/mytheme/theme.scss";
+@import '../node_modules/primeicons/primeicons.css';
+
+//@import "primeng/resources/themes/nova/theme.css";
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeout {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
+
+.pulsate {
+  animation: pulsate 4s ease-out;
+  animation-iteration-count: infinite;
+  opacity: 0.5;
+}
+
+@-webkit-keyframes pulsate {
+  0%, 35% {
+    opacity: 1.0;
+  }
+  50% {
+    opacity: 0;
+  }
+  65%, 100% {
+    opacity: 1.0;
+  }
+}
+
+@font-face {
+  font-family: 'e1234-font';
+  src: url('assets/fonts/e1234-font/E1234-p7pER.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+html {
+  scrollbar-width: none;
+  width: 100%;
+  height: 100%;
+
+  body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

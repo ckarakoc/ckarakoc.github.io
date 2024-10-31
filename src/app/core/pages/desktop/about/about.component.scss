@@ -1,0 +1,167 @@
+:host {
+  --card-color: #f9b234;
+}
+
+:host ::ng-deep {
+  .p-card {
+    user-select: none;
+    width: 100%;
+    //background-color: #333;
+    background-image: var(--dynamic-background-image);//url('assets/images/big_brother.jpg');
+    filter: invert(var(--card-color));
+    border: 2px solid black;
+    border-radius: 28px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    position: relative;
+    overflow: hidden;
+
+
+    &:hover {
+
+      .t-content {
+        color: saddlebrown;
+      }
+
+      .about-links {
+        visibility: visible !important;
+        opacity: 1 !important;
+      }
+
+      .item-link {
+        .item-bg {
+          transform: scale(20);
+        }
+      }
+    }
+
+    .t-content {
+      color: var(--card-color);
+      position: relative;
+      z-index: 2;
+    }
+
+    .p-card-header {
+      padding: 10px;
+
+      .blurry-border {
+        display: inline-block;
+        border-radius: 50%;
+        overflow: hidden;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+
+        img {
+          display: block;
+          border-radius: 50%;
+          width: 200px;
+          height: 200px;
+        }
+      }
+
+      .p-card-title {
+      }
+
+      .p-card-subtitle {
+      }
+    }
+
+    .p-card-body {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      max-width: 375px;
+      width: 375px;
+
+      .item-link {
+
+        .about-links {
+          display: flex;
+          margin: auto 0;
+          flex-direction: column;
+          gap: 25px;
+          visibility: hidden;
+          opacity: 0;
+          transition: visibility 0s, opacity 1s linear;
+
+          .pi {
+            font-size: 2rem;
+
+            &.pi-github {
+              color: #6e7681;
+
+              &:hover {
+                filter: brightness(80%);
+                cursor: pointer;
+              }
+            }
+
+            &.pi-linkedin {
+              color: #0077B5;
+
+              &:hover {
+                filter: brightness(80%);
+                cursor: pointer;
+              }
+            }
+
+            &.pi-envelope {
+              color: #A0522D;
+
+              &:hover {
+                filter: brightness(80%);
+                cursor: pointer;
+              }
+            }
+
+            &.pi-globe {
+              color: #4B8A3D;
+
+              &:hover {
+                filter: brightness(80%);
+                cursor: pointer;
+              }
+            }
+
+            a {
+              all: unset;
+              text-decoration: none !important;
+              outline: none;
+            }
+          }
+        }
+
+        .p-content {
+          font-weight: bold;
+        }
+
+        .item-bg {
+          position: absolute;
+          height: 128px;
+          width: 128px;
+          background-color: var(--card-color);
+
+          z-index: 0;
+          top: -75px;
+          right: -75px;
+
+          border-radius: 50%;
+
+          transition: all .5s ease;
+        }
+      }
+    }
+  }
+}
+
+
+.card {
+  display: flex;
+  width: 100%;
+
+  .card-footer {
+    display: flex;
+    gap: 3px;
+    margin-top: 1px;
+  }
+}

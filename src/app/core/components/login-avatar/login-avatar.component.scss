@@ -1,0 +1,57 @@
+.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  animation: fadein 1s ease-in;
+  padding: 1rem;
+  border-radius: 1rem;
+
+  &:not(.disabled):hover {
+    background-color: rgba(white, 50%);
+  }
+
+  .name {
+    user-select: none;
+    color: white;
+    text-shadow: 1px 1px 10px #fff, 1px 1px 10px #ccc;
+    margin: 10px 10px;
+  }
+
+}
+
+:host ::ng-deep {
+  .avatar {
+    .p-avatar {
+      display: flex;
+
+      img {
+        user-select: none;
+      }
+    }
+
+    .login-input {
+      > * {
+        margin-left: 0.5rem;
+      }
+
+      .p-password input[type="password"] {
+        color: white;
+        padding-left: 1rem;
+        border-radius: 50px;
+        background-color: rgba(white, 50%);
+        border: 0;
+
+        &::placeholder {
+          color: white;
+        }
+      }
+
+      .p-button {
+        border-radius: 100%;
+        background-color: rgba(white, 50%);
+        border: 0;
+      }
+    }
+  }
+}

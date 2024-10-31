@@ -1,0 +1,53 @@
+[
+  {
+    "name": "codewars",
+    "repo_url": "https://github.com/ckarakoc/codewars",
+    "image_url": "https://raw.githubusercontent.com/ckarakoc/codewars/main/assets/images/codewars.gif",
+    "description": "A python data-miner of the codewars website.",
+    "tags": [
+      "html",
+      "css",
+      "python",
+      "javascript",
+      "java",
+      "php"
+    ],
+    "private": false,
+    "tutorial": false
+  },
+  {
+    "name": "website",
+    "repo_url": "https://github.com/ckarakoc/Website",
+    "image_url": "",
+    "description": "https://www.ckarakoc.nl",
+    "tags": [
+      "angular",
+      "scss",
+      "typescript",
+      "html",
+      "python"
+    ],
+    "private": true,
+    "tutorial": false
+  },
+  {
+    "name": "ng-chat-ui-setup",
+    "repo_url": "https://github.com/ckarakoc/ng-chat-ui-setup",
+    "image_url": "https://raw.githubusercontent.com/ckarakoc/ng-chat-ui-setup/master/src/assets/readme_intro.gif",
+    "description": "",
+    "tags": [
+    ],
+    "private": false,
+    "tutorial": true
+  },
+  {
+    "name": "",
+    "repo_url": "",
+    "image_url": "",
+    "description": "",
+    "tags": [
+    ],
+    "private": false,
+    "tutorial": true
+  }
+]

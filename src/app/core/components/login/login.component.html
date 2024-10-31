@@ -1,0 +1,24 @@
+<div class="c-login" [ngStyle]="{'background-image': 'url(' + getImage() + ')'}">
+  @if (!loading_done) {
+    <div class="loading-screen">
+      <img src="assets/images/macos/apple-logo.svg" alt="apple_logo" class="apple-logo"/>
+      <p-progressBar mode="indeterminate" class="progressbar"/>
+    </div>
+  } @else {
+    <div class="login-screen">
+      <div class="clock-part">
+        <span class="pulsate">19:23</span>
+      </div>
+      <p-toast position="top-center" key="tc"/>
+      <div class="login-part">
+        @for (avatar of avatars; track avatar) {
+          @if (avatar.name === 'Guest') {
+            <app-login-avatar [routerLink]="['/desktop']" *ngIf="avatar.shown" (moveAvatar)="moveToCenter($event, 'Guest')"/>
+          } @else {
+            <app-login-avatar (clearedPwdField)="showToastMsg()" *ngIf="avatar.shown" (moveAvatar)="moveToCenter($event, avatar.name)" [name]="avatar.name" [imageUrl]="avatar.imageUrl"/>
+          }
+        }
+      </div>
+    </div>
+  }
+</div>

@@ -1,0 +1,957 @@
+[
+  {
+    "name": "group7",
+    "repo_url": "https://github.com/alikahawa/group7",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "C",
+      "C++",
+      "Makefile",
+      "Lua"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "AHK-Macros",
+    "repo_url": "https://github.com/ckarakoc/AHK-Macros",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "AutoHotkey"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "Angular",
+    "repo_url": "https://github.com/ckarakoc/Angular",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "AngularForm",
+    "repo_url": "https://github.com/ckarakoc/AngularForm",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "HTML",
+      "TypeScript",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "AngularHero",
+    "repo_url": "https://github.com/ckarakoc/AngularHero",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "AssDr0ids",
+    "repo_url": "https://github.com/ckarakoc/AssDr0ids",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "Calculator",
+    "repo_url": "https://github.com/ckarakoc/Calculator",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "CelalsDonerKebab",
+    "repo_url": "https://github.com/ckarakoc/CelalsDonerKebab",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "PHP",
+      "HTML"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "CIassignment3",
+    "repo_url": "https://github.com/ckarakoc/CIassignment3",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "CINetwork",
+    "repo_url": "https://github.com/ckarakoc/CINetwork",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "MATLAB"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "codewars",
+    "repo_url": "https://github.com/ckarakoc/codewars",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "HTML",
+      "Python",
+      "CSS",
+      "JavaScript",
+      "Java",
+      "PHP",
+      "Hack"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "CSE3220",
+    "repo_url": "https://github.com/ckarakoc/CSE3220",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "DataMining",
+    "repo_url": "https://github.com/ckarakoc/DataMining",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "DataMiningRecommender",
+    "repo_url": "https://github.com/ckarakoc/DataMiningRecommender",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "DemoProjectS7",
+    "repo_url": "https://github.com/ckarakoc/DemoProjectS7",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "django-project-template",
+    "repo_url": "https://github.com/ckarakoc/django-project-template",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "EndlessRunner",
+    "repo_url": "https://github.com/ckarakoc/EndlessRunner",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "Everest",
+    "repo_url": "https://github.com/ckarakoc/Everest",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "Apache License 2.0"
+  },
+  {
+    "name": "ExampleStartingReactSite",
+    "repo_url": "https://github.com/ckarakoc/ExampleStartingReactSite",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "ExpenseTracker",
+    "repo_url": "https://github.com/ckarakoc/ExpenseTracker",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "Frogger",
+    "repo_url": "https://github.com/ckarakoc/Frogger",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "game-of-life",
+    "repo_url": "https://github.com/ckarakoc/game-of-life",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "GameOfLife",
+    "repo_url": "https://github.com/ckarakoc/GameOfLife",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "gotdzellal.github.io",
+    "repo_url": "https://github.com/ckarakoc/gotdzellal.github.io",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "CSS",
+      "HTML",
+      "Ruby",
+      "JavaScript"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "IDM",
+    "repo_url": "https://github.com/ckarakoc/IDM",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "InvestmentCalculator",
+    "repo_url": "https://github.com/ckarakoc/InvestmentCalculator",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "JavaConsoleStyling",
+    "repo_url": "https://github.com/ckarakoc/JavaConsoleStyling",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "jpacman-framework",
+    "repo_url": "https://github.com/ckarakoc/jpacman-framework",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "Gherkin"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "laravel-tutorial-blog",
+    "repo_url": "https://github.com/ckarakoc/laravel-tutorial-blog",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "PHP",
+      "Blade",
+      "Shell"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "LeetCode",
+    "repo_url": "https://github.com/ckarakoc/LeetCode",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "JavaScript"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "mr-r0b0t",
+    "repo_url": "https://github.com/ckarakoc/mr-r0b0t",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "Shell"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "MyFirstApp",
+    "repo_url": "https://github.com/ckarakoc/MyFirstApp",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Kotlin"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "ndfs",
+    "repo_url": "https://github.com/ckarakoc/ndfs",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "Shell",
+      "HTML"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "ng-chat-ui-setup",
+    "repo_url": "https://github.com/ckarakoc/ng-chat-ui-setup",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "node-steamapi",
+    "repo_url": "https://github.com/ckarakoc/node-steamapi",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "old.ckarakoc.github.io",
+    "repo_url": "https://github.com/ckarakoc/old.ckarakoc.github.io",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "SCSS",
+      "HTML",
+      "Ruby"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "OurOwnGameWithBlackJackAndHookers",
+    "repo_url": "https://github.com/ckarakoc/OurOwnGameWithBlackJackAndHookers",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "Do What The F*ck You Want To Public License"
+  },
+  {
+    "name": "poe-paw",
+    "repo_url": "https://github.com/ckarakoc/poe-paw",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "pythonProject",
+    "repo_url": "https://github.com/ckarakoc/pythonProject",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "recommender",
+    "repo_url": "https://github.com/ckarakoc/recommender",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "snake",
+    "repo_url": "https://github.com/ckarakoc/snake",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "Thee",
+    "repo_url": "https://github.com/ckarakoc/Thee",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "CSS"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "todo",
+    "repo_url": "https://github.com/ckarakoc/todo",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "PHP",
+      "Blade",
+      "Shell",
+      "JavaScript"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "UnityRoller",
+    "repo_url": "https://github.com/ckarakoc/UnityRoller",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "C#",
+      "Shell"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "VectorBasedGame",
+    "repo_url": "https://github.com/ckarakoc/VectorBasedGame",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "Weblab",
+    "repo_url": "https://github.com/ckarakoc/Weblab",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "Website",
+    "repo_url": "https://github.com/ckarakoc/Website",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "SCSS",
+      "TypeScript",
+      "HTML",
+      "Python"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "YoutubeZero",
+    "repo_url": "https://github.com/ckarakoc/YoutubeZero",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "experience-primer-copilot-ckarakoc",
+    "repo_url": "https://github.com/Exp-Primer-Copilot-Cohort-1/experience-primer-copilot-ckarakoc",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "Illuminati-D2.1",
+    "repo_url": "https://github.com/FWDekker/Illuminati-D2.1",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Java",
+      "CSS"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "vr-number-one",
+    "repo_url": "https://github.com/GreybeardCG/vr-number-one",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "C#",
+      "C++",
+      "Shell",
+      "C"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "SideScroller",
+    "repo_url": "https://github.com/ikhebgeenaccount/SideScroller",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "HTML",
+      "Java",
+      "CSS",
+      "JavaScript"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "CI-NeuralNetwork",
+    "repo_url": "https://github.com/kjcvheel/CI-NeuralNetwork",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "CoCo",
+    "repo_url": "https://github.com/nielsdebruin/CoCo",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Python",
+      "LLVM",
+      "C++",
+      "Shell",
+      "Vim Script",
+      "Makefile",
+      "C"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "ecommerce-nuxt",
+    "repo_url": "https://github.com/OguzcanKarakoc/ecommerce-nuxt",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "Vue",
+      "JavaScript",
+      "TypeScript",
+      "CSS",
+      "Dockerfile"
+    ],
+    "visibility": "public",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "MaxEncode",
+    "repo_url": "https://github.com/OguzcanKarakoc/MaxEncode",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "PHP",
+      "Blade",
+      "Shell",
+      "HTML"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": "MIT License"
+  },
+  {
+    "name": "MultiLauncher",
+    "repo_url": "https://github.com/OguzcanKarakoc/MultiLauncher",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "JavaScript",
+      "HTML",
+      "TypeScript"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "yiwa-ecommerce",
+    "repo_url": "https://github.com/OguzcanKarakoc/yiwa-ecommerce",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  },
+  {
+    "name": "ComputerGraphics",
+    "repo_url": "https://github.com/ricohageman/ComputerGraphics",
+    "image_url": "/images/repo/images/",
+    "description": "",
+    "tags": [
+      "C++",
+      "C"
+    ],
+    "visibility": "private",
+    "tutorial": false,
+    "school": false,
+    "grade": 0,
+    "downloadables": [],
+    "license": null
+  }
+]
